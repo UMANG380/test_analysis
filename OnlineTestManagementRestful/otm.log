@@ -1,0 +1,19 @@
+2019-11-08 15:49:07,489 INFO com.cg.otm.OnlineTestManagementRestful.OnlineTestManagementRestfulApplication [main] Starting OnlineTestManagementRestfulApplication on DESKTOP-VS2NA3D with PID 6472 (C:\Users\Admin\git\repository3\OnlineTestManagementRestful\target\classes started by Admin in C:\Users\Admin\git\repository3\OnlineTestManagementRestful)
+2019-11-08 15:49:07,496 DEBUG com.cg.otm.OnlineTestManagementRestful.OnlineTestManagementRestfulApplication [main] Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-08 15:49:07,497 INFO com.cg.otm.OnlineTestManagementRestful.OnlineTestManagementRestfulApplication [main] No active profile set, falling back to default profiles: default
+2019-11-08 15:49:08,822 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2019-11-08 15:49:08,824 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-11-08 15:49:09,033 INFO org.apache.jasper.servlet.TldScanner [main] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-08 15:49:09,039 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2019-11-08 15:49:09,174 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2019-11-08 15:49:09,273 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2019-11-08 15:49:09,319 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-11-08 15:49:09,457 INFO org.hibernate.Version [main] HHH000412: Hibernate Core {5.3.12.Final}
+2019-11-08 15:49:09,458 INFO org.hibernate.cfg.Environment [main] HHH000206: hibernate.properties not found
+2019-11-08 15:49:09,556 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-11-08 15:49:09,670 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-11-08 15:49:10,891 DEBUG com.cg.otm.OnlineTestManagementRestful.config.JwtRequestFilter [main] Filter 'jwtRequestFilter' configured for use
+2019-11-08 15:49:10,972 INFO org.hibernate.hql.internal.QueryTranslatorFactoryInitiator [main] HHH000397: Using ASTQueryTranslatorFactory
+2019-11-08 15:49:11,668 INFO com.cg.otm.OnlineTestManagementRestful.OnlineTestManagementRestfulApplication [main] Started OnlineTestManagementRestfulApplication in 4.464 seconds (JVM running for 4.93)
